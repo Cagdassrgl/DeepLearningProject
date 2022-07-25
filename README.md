@@ -1,3 +1,5 @@
 # DeepLearningProject
 
-Derin Öğrenme Dersi Vize Projesi
+Derin Öğrenme 
+
+Sayısal veriler ile sınıflandırma
